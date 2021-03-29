@@ -15,8 +15,8 @@ sidebar:
   email: miguelantonio_rodriguez@ucol.mx
   phone: 3141640364
   website: # No agregar http://
-  linkedin: https://www.linkedin.com/in/mikerdrgz/
-  github: https://github.com/Arkamis
+  linkedin: www.linkedin.com/in/mikerdrgz/
+  github: github.com/Arkamis
   twitter: '@ArkaMike'
   # stack-overflow: # Number/Username, e.g. 123456/alandoe
   # codewars:
@@ -29,9 +29,6 @@ sidebar:
 
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
-
-    # - idiom: German
-    #   level: Colloquial
 
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
@@ -78,7 +75,7 @@ educationcomplete:
 
   - degree: Internship (Bachelor's degree)
     university: BrightCoders Academy
-    time: 2021 March - current
+    time: 2021 Mar - current
     details: |
       Ruby on Rails Web Development.
 
@@ -153,7 +150,6 @@ skills:
 
     - name: SQL
       level: 80%
-
 
 # NO MODIFICAR
 footer: >
