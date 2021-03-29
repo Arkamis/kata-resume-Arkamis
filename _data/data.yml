@@ -121,23 +121,23 @@ skills:
     - name: Data Science
       level: 40%
 
+    - name: IoT
+      level: 40%
+
+    - name: UX/ UI
+      level: 40%
+
     - name: NoSQL
       level: 60%
 
     - name: MongoDB
       level: 60%
 
-    - name: UX/ UI
-      level: 40%
-
     - name: Cybersecurity
       level: 60%
 
     - name: Automation
-      level: 40%
-
-    - name: IoT
-      level: 40%
+      level: 60%
 
     - name: NodeJS
       level: 60%
