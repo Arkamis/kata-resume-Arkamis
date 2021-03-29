@@ -7,110 +7,106 @@ sidebar:
   education: False # NO MODIFICAR
 
   # Profile information
-  name: My Full Name # Nombre completo
-  tagline: React Native Mobile Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
+  name: Miguel Antonio Rodriguez Perez. # Nombre completo
+  tagline: Ruby on Rails Web Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
   avatar: profile.png # Colocar una imagen con tu foto de 100x100 pixels dentro de /assets/images
 
   # Actualiza tus datos de contacto
-  email: name@brightcoders.com
-  phone:
+  email: miguelantonio_rodriguez@ucol.mx
+  phone: 3141640364
   website: # No agregar http://
-  linkedin: brightcoders
-  github: brightcoders
-  gitlab:
-  bitbucket:
-  twitter: '@BrightCoders'
-  stack-overflow: # Number/Username, e.g. 123456/alandoe
-  codewars:
-  goodreads: # Number-Username, e.g. 123456-alandoe
+  linkedin: https://www.linkedin.com/in/mikerdrgz/
+  github: https://github.com/Arkamis
+  twitter: '@ArkaMike'
+  # stack-overflow: # Number/Username, e.g. 123456/alandoe
+  # codewars:
+  # goodreads: # Number-Username, e.g. 123456-alandoe
 
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
     - idiom: English
-      level: Fluent # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+      level: C2 # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
-    - idiom: German
-      level: Colloquial
+    # - idiom: German
+    #   level: Colloquial
 
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
-    - item: Communication
+    - item: Problem-Solving
       link: # dejar en blanco
 
     - item: Team Work
       link: # dejar en blanco
 
-    - item: Time Management
+    - item: Adaptability
+      link: # dejar en blanco
+    
+    - item: Accountability
+      link: # dejar en blanco
+    
+    - item: Approachability
+      link: # dejar en blanco
+
+    - item: Empathy
       link: # dejar en blanco
 
 # Registra aquí un resumen de tu perfil
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    Lorem ipsum dolor sit amet, con sectetur adipiscing elit. Proin purus ligula, posuere semper est sed, pretium elementum massa. Duis et orci sed nunc. Maecenas at egestas mi. Nulla id augue a lectus condimentum scelerisque vitae sed dui.
+    Software engineering student with more than 2 years of experience participating in projects
+    that provide technological involvement solutions to problems that companies currently
+    have. Adept of agile methodologies and their philosophy. Being autodidact, I acquired
+    knowledge of different areas derived f rom IT to provide innovative solutions that adapt to
+    the current market. Always showing enthusiasm for learning new technologies and
+    motivated to establish productive relationships with other members of the company.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
-  - degree: Applied Scientist full-time at AWS
-    university: Germany
-    time: 2020 Oct - current
+  - degree: Technical analyst programmer.
+    university: Bachillerato Tecnico No.8
+    time: 2014 Aug - 2017 Jan
     details: |
 
-  - degree: PhD in Computer vision and Machine learning
-    university: Heidelberg University
-    time: 2015 - 2020
+  - degree: Software Engineer
+    university: University of Colima
+    time: 2017 - Current
     details: |
-      Unsupervised deep learning for automatic behavior analysis
 
-        - Unsupervised learning
-        - Representaion learning
-        - Automatic Behavior Analysis
-
-  - degree: Internship (Master Thesis)
-    university: Tobii
-    time: 2014 - 2015
+  - degree: Internship (Bachelor's degree)
+    university: BrightCoders Academy
+    time: 2021 March - current
     details: |
-      Master thesis topic Hand gesture classification by Deep learning using infrared camera 
-
-        - Deep learning
-        - Hand Gesture
-
-  - degree: Bachelor Degree
-    university: Politecnico di Torino (Torino, Italy)
-    time: 2009 - 2012
-    details: |
-      Master degree in Computer Engineering
+      Ruby on Rails Web Development.
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Internship
+    time: 2018 Oct - 2018 Dec
+    company: TunaShields, Mexico.
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
+      Participated in the development of an API for data management of an IoT sensor. The API
+      collected the data f rom the sensors connected to a broker. I used the MQTT protocol to
+      communicate with the sensors and the HTTP protocol to display the information to the
+      web.
+      Technologies used:
+        - Node js.
+        - Express.
+        - Eclipse Mosquito.
+        - Mongo DB.
 
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+  - role: Internship
+    time: 2020 - 2021
+    company: CENEDIC (University of Colima), Mexico.
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
+      As a constitutional service, I participated together with 2 colleagues in the planning and
+      development of a system that was in charge of preserving the history of COMEPO in a
+      virtual way. To digitize all their files and processes. We started with a requirements manual,
+      however they were not well defined and we incorporated extra iterations to adapt changes
+      and new requirements.
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
@@ -125,20 +121,39 @@ skills:
     - name: Python
       level: 20%
 
-    - name: PyTorch
+    - name: Data Science
       level: 40%
 
-    - name: Tensorflow
+    - name: NoSQL
       level: 60%
 
-    - name: Caffe
+    - name: MongoDB
+      level: 60%
+
+    - name: UX/ UI
+      level: 40%
+
+    - name: Cybersecurity
+      level: 60%
+
+    - name: Automation
+      level: 40%
+
+    - name: IoT
+      level: 40%
+
+    - name: NodeJS
+      level: 60%
+
+    - name: React
+      level: 60%
+
+    - name: NextJS
+      level: 60%
+
+    - name: SQL
       level: 80%
 
-    - name: Matlab
-      level: 100%
-
-    - name: C/C++
-      level: 40%
 
 # NO MODIFICAR
 footer: >
