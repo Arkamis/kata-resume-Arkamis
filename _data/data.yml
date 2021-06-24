@@ -105,6 +105,34 @@ experiences:
       however they were not well defined and we incorporated extra iterations to adapt changes
       and new requirements.
 
+  - role: Internship
+    time: 2021 
+    company: BrightCoders Academy
+    details: |
+      Participatde in a ruby on rails web developer course provided by brightcoders academy. 
+      I perform practical activities to learn the ruby language with the on rails framework. 
+      You can about my [Professional Training]("/docs/RODRIGUEZPEREZMIGUELA-MEMORIA.pdf")
+
+  - role: Internship
+    time: 2021 
+    company: Rayo company
+    details: |
+      Participated in Rayo Comapny Startup by planning the architecture, services and workflow. Also develop 
+      the main functionality that rayo service offer. You can know more about [rayo company project here]("https://rayocompany.com")
+
+projects:
+    title: Projects
+    intro: >
+      On production projects. You can visit my github to checkout all the non-production enviroment projects that I had worked on.
+    assignments:
+      - title: Project citizen complaint
+        link: "https://thawing-everglades-48094.herokuapp.com/"
+        tagline: "A website to allow users create denounces and filter other users denounces by creating points of interest. Made in ruby on rails"
+
+      - title: Rayo
+        link: "https://rayocompany.com/"
+        tagline: "Participated planning the architecture and development of backend services for rayo company startup."
+        
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
 # 40% para Advanced beginner
@@ -118,6 +146,12 @@ skills:
     - name: Python
       level: 20%
 
+    - name: Graphql
+      level: 40%
+
+    - name: AWS
+      level: 20%
+
     - name: Data Science
       level: 40%
 
@@ -125,6 +159,9 @@ skills:
       level: 40%
 
     - name: UX/ UI
+      level: 40%
+
+    - name: Ruby on Rails
       level: 40%
 
     - name: NoSQL
@@ -139,15 +176,15 @@ skills:
     - name: Automation
       level: 60%
 
-    - name: NodeJS
-      level: 60%
-
     - name: React
       level: 60%
 
     - name: NextJS
       level: 60%
 
+    - name: NodeJS
+      level: 80%
+    
     - name: SQL
       level: 80%
 
