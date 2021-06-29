@@ -8,12 +8,12 @@ sidebar:
 
   # Profile information
   name: Miguel Antonio Rodriguez Perez. # Nombre completo
-  tagline: Ruby on Rails Web Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
+  tagline: Software Engineer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
   avatar: profile.png # Colocar una imagen con tu foto de 100x100 pixels dentro de /assets/images
 
   # Actualiza tus datos de contacto
   email: miguelantonio_rodriguez@ucol.mx
-  phone: 3141640364
+  phone: +5123141640364
   website: # No agregar http://
   linkedin: www.linkedin.com/in/mikerdrgz/
   github: github.com/Arkamis
@@ -25,7 +25,7 @@ sidebar:
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
     - idiom: English
-      level: C2 # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+      level: Advance # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
@@ -70,14 +70,8 @@ educationcomplete:
 
   - degree: Software Engineer
     university: University of Colima
-    time: 2017 - Current
+    time: 2017 - 2021
     details: |
-
-  - degree: Internship (Bachelor's degree)
-    university: BrightCoders Academy
-    time: 2021 Mar - current
-    details: |
-      Ruby on Rails Web Development.
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
@@ -118,7 +112,7 @@ experiences:
     company: Rayo company
     details: |
       Participated in Rayo Comapny Startup by planning the architecture, services and workflow. Also develop 
-      the main functionality that rayo service offer. You can know more about [rayo company project here]("https://rayocompany.com")
+      the main functionality that rayo service offer. You can know more about [rayo company project here](https://rayocompany.com)
 
 projects:
     title: Projects
